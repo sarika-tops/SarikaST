@@ -1,0 +1,14 @@
+1. First of all camera not open sometimes in one click.
+2. Camera clearity not clear as compare to normal camera.
+3. More effects and filter option not available.
+4. Slow motion video option not available.
+5. Time restriction on video shoot.
+6. No option of portrait camera.
+7. Extra HD option is not available.
+8. Night mode option is not available.
+9. Timer option not available.
+10. GIF continues to play not stop until we do.
+11. Long videos does not send.
+12. Settings option not available.
+13. Images and videos captured using the whatsapp camera are automatically saved to the devices internal storage its constraints storage space.
+14. Without stable internet connection whatsapp camera is not usable.
